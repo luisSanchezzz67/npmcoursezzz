@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/luisSanchezzz67/npmcoursezzz/issues"
   },
-  "homepage": "https://github.com/luisSanchezzz67/npmcoursezzz#readme"
+  "homepage": "https://github.com/luisSanchezzz67/npmcoursezzz#readme",
+  "optionalDependencies": {
+    "flag": "^5.0.1"
+  }
 }
